@@ -1,4 +1,4 @@
-module github.com/ipfs/go-ipfs-ds-help
+module github.com/hsanjuan/go-ipfs-ds-help
 
 require (
 	github.com/ipfs/go-cid v0.0.4
